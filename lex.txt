@@ -1,0 +1,12 @@
+DT the
+DT a
+NN man
+NN woman
+NNS men
+NNS women
+VBZ bites
+VBP bite
+VBZ likes
+VBP like
+JJ green
+NN dog
